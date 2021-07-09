@@ -18,10 +18,10 @@ There has been evidence of academic dishonesty; specifically, reading and math g
 ## Results
 As a whole, the overall impact of removing 9th grade from the dataset was minimal.  The average math/reading scores remained flat while the percentage of students passing declined by 0.2% and 0.1%, respectively. The overall passing moved the most at 0.3%.
 
-•	The only impact at the school level was to THS with the exclusion of 9th grade.
-•	THS is in the 630-644 spending range per student, which has poorer scores than two of the other three spending ranges.  However, THS has the highest scores of the four schools in this range.  Because the score movement was less than half a percent, there was no impact to the overall scores for spending.
-•	THS is in the medium range for school size (1,000 to 2,000 students) with 1,635 students.  The scores before and after adjustments were relatively the same and had no impact on scores based on school size.
-•	When looking at the type of school (charter vs. district), the adjustments to THS only impacted the scores for charter schools, but again, the impact was minimal.
+*	The only impact at the school level was to THS with the exclusion of 9th grade.
+*	THS is in the 630-644 spending range per student, which has poorer scores than two of the other three spending ranges.  However, THS has the highest scores of the four schools in this range.  Because the score movement was less than half a percent, there was no impact to the overall scores for spending.
+*	THS is in the medium range for school size (1,000 to 2,000 students) with 1,635 students.  The scores before and after adjustments were relatively the same and had no impact on scores based on school size.
+*	When looking at the type of school (charter vs. district), the adjustments to THS only impacted the scores for charter schools, but again, the impact was minimal.
 
 ## Summary
 
@@ -29,8 +29,8 @@ As a whole, the overall impact of removing 9th grade from the dataset was minima
 
 The district spent an average of $629 per student across 15 schools.  Overall the students passed the reading and math testing at a rate of 64.9% with reading out performing math.  One thing to note is that the more the school spends per student the worse the overall scores are as a group.
 
-•	The bottom half of the schools in relation to performance spent an average of $2.5mm and had an average score of 54.  These are some of the larger schools with an average per student of $644, which is $50 higher than the top performing schools. 
-•	Charter schools also spent less per student than district schools with better results.
+*	The bottom half of the schools in relation to performance spent an average of $2.5mm and had an average score of 54.  These are some of the larger schools with an average per student of $644, which is $50 higher than the top performing schools. 
+*	Charter schools also spent less per student than district schools with better results.
 
 ![](Resources/Schools.PNG)
 
