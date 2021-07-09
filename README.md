@@ -24,13 +24,13 @@ As a whole, the overall impact of removing 9th grade from the dataset was minima
 
 ## Summary
 
-![](Images/district.png)	
+![]( Images/District.png)	
 
 The district spent an average of $629 per student across 15 schools.  Overall the students passed the reading and math testing at a rate of 64.9% with reading out performing math.  One thing to note is that the more the school spends per student the worse the overall scores are as a group.
 •	The bottom half of the schools in relation to performance spent an average of $2.5mm and had an average score of 54.  These are some of the larger schools with an average per student of $644, which is $50 higher than the top performing schools. 
 •	Charter schools also spent less per student than district schools with better results.
 
-![](Images/schools.png
+![]( Images/Schools.png)
 
 Finally, the impact of removing the data for 9th grade students was minimal and do not impact the overall results of the testing.  The school board would be able to look at results from either scenario to make their decisions in regards to funding.  
 
